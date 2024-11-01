@@ -3,10 +3,14 @@ Olá, sou o Vini 👋
 </h3>
 Engenheiro de software com ampla experiência em desenvolvimento back-end, especializado em Golang, Python e PHP. Dedico minha carreira a projetar e implementar arquiteturas de software robustas e escaláveis, sempre seguindo as melhores práticas de desenvolvimento para entregar soluções eficientes e de alta qualidade. Tenho um forte compromisso com a construção de sistemas que atendam às necessidades de negócios complexos e de alta performance.
 
-🔭 Atuação em projetos que envolvem desenvolvimento back-end utilizando Golang, Python e PHP;
+🔭 Atuação em projetos que envolvem desenvolvimento back-end utilizando Golang, Python e PHP; 
+
 🌱 Constantemente aprimorando minhas habilidades em arquitetura de software e boas práticas de desenvolvimento;
+
 👯 Aberto a colaborações em projetos desafiadores que exijam inovação e soluções escaláveis;
+
 💬 Disponível para conversar sobre arquitetura de software, práticas de desenvolvimento e desafios em engenharia de software.
+
 <h2 align="center"> :rocket: &nbsp;Minhas Competências </h2> <h3 align="center">
 
 <h2 align="center"> :rocket: &nbsp;My Skills </h2>
