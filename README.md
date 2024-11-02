@@ -6,6 +6,19 @@ Engenheiro de software com ampla experiência em desenvolvimento back-end, espec
 💬 Disponível para conversar sobre arquitetura de software, práticas de desenvolvimento e desafios em engenharia de software.<br>
 
 <h2 align="center"> :rocket: &nbsp;Minhas Competências </h2>
+
+<table>
+  <tr>
+    <td style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; background-color: #f9f9f9;">
+      <h3 style="margin-top: 0;">🌩️ Cloud </h3>
+      <div>
+        <img title="AWS" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+        <img title="GCP" alt="GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+      </div>
+    </td>
+  </tr>
+</table>
+
 🌩️ Cloud 
 <div>
   <img title="AWS" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
@@ -76,13 +89,4 @@ Engenheiro de software com ampla experiência em desenvolvimento back-end, espec
   <a href="mailto:viniciusdiazevedo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/viniciusazevedo-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-<table>
-  <tr>
-    <td style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; background-color: #f9f9f9;">
-      <h3 style="margin-top: 0;">Título do Card</h3>
-      <p>Este é um exemplo de conteúdo dentro de um card. Você pode adicionar texto, imagens ou qualquer outro elemento aqui.</p>
-    </td>
-  </tr>
-</table>
 
