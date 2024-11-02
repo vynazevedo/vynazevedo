@@ -8,13 +8,48 @@ Engenheiro de software com ampla experiência em desenvolvimento back-end, espec
 <h2 align="center"> :rocket: &nbsp;Minhas Competências </h2> <h3 align="center">
 <h3 align="center"> 
  
- ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
- ![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=java)
- ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
- ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
- ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
- ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
- ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) 
+ <div>
+  <h2>Linguagens e ferramentas com as quais tenho experiência e estudo:</h2>
+  <div style="display: inline-block;" align="center">
+   <img title="MongoDB" alt="Medeiros-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
+   <img title="MySQL" alt="Medeiros-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+   <img title="PostgreSQL" alt="Medeiros-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+   <img title="Redis" alt="Medeiros-Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
+
+   <img title="NodeJS" alt="Medeiros-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+   <img title="PHP" alt="Medeiros-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+   <img title="GO" alt="Medeiros-GO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+   <img title="TypeScript" alt="Medeiros-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+   <img title="TypeScript" alt="Medeiros-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+   <img title="CSS3" alt="Medeiros-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+   <img title="HTML5" alt="Medeiros-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+
+   <img title="AWS" alt="Medeiros-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+   <img title="GCP" alt="Medeiros-GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+
+   <img title="Angular" alt="Medeiros-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
+   <img title="Laravel" alt="Medeiros-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-line.svg">
+   <img title="NestJS" alt="Medeiros-NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-line.svg">
+   <img title="NextJS" alt="Medeiros-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
+
+   <img title="Tailwind" alt="Medeiros-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+   <img title="jQuery" alt="Medeiros-jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
+   <img title="React" alt="Medeiros-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img title="Bootstrap" alt="Medeiros-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+
+   <img title="Docker" alt="Medeiros-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
+   <img title="GIT" alt="Medeiros-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+   <img title="Jira" alt="Medeiros-Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
+
+   <img title="Yarn" alt="Medeiros-Yarn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
+   <img title="NPM" alt="Medeiros-NPM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+
+   <img title="NGINX" alt="Medeiros-NGINX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
+   <img title="Apache" alt="Medeiros-Apache" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
+  </div>
+ </div>
+</div>
  
 <div>
   <a href="mailto:viniciusdiazevedo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
