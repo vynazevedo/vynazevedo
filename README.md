@@ -11,7 +11,9 @@ Engenheiro de software com ampla experiência em desenvolvimento back-end, espec
   <img title="AWS" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img title="GCP" alt="GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
 </div><br>
+
 ---
+
 ⚙️ Backend 
 <div>
   <img title="NodeJS" alt="ViniciusAzeved-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
