@@ -52,8 +52,9 @@ Engenheiro de software com ampla experiência em desenvolvimento back-end, espec
 > <img title="Kibana" alt="Kibana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg">
 
 > ### 🗄️ Bancos de Dados & Armazenamento
-> <img title="MongoDB" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg"> 
-> <img title="MySQL" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
+> <img title="MongoDB" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
+> <img title="MySQL" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+> <img title="MSSQL" alt="MSSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mssql/mssql-original.svg">
 > <img title="PostgreSQL" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"> 
 > <img title="Redis" alt="Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg"> 
 > <img title="SQLite" alt="SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"> 
