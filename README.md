@@ -65,3 +65,11 @@ Engenheiro de software com ampla experiência em desenvolvimento back-end, espec
   <a href="https://www.linkedin.com/in/viniciusazevedo-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<div align="center">
+ <table style="border: none !important;" cellspacing="0" cellpadding="0">
+  <tr style="border: none !important;">
+   <td style="border: none !important;"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=vynazevedo&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/></td>
+   <td style="border: none !important;"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vynazevedo&layout=compact&langs_count=7&theme=monokai"/></td>
+  </tr>
+ </table>
+</div>
