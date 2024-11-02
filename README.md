@@ -31,7 +31,7 @@ Engenheiro de software com ampla experiência em desenvolvimento back-end, espec
    <img title="Angular" alt="ViniciusAzevedo-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
    <img title="Laravel" alt="ViniciusAzevedo-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-line.svg">
    <img title="NestJS" alt="ViniciusAzevedo-NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"> 
-   <img title="NextJS" alt="ViniciusAzevedo-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
+   <img title="NextJS" alt="ViniciusAzevedo-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 
    <img title="Tailwind" alt="ViniciusAzevedo-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
    <img title="jQuery" alt="ViniciusAzevedo-jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
