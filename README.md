@@ -6,6 +6,7 @@ Engenheiro de software com ampla experiência em desenvolvimento back-end, espec
 💬 Disponível para conversar sobre arquitetura de software, práticas de desenvolvimento e desafios em engenharia de software.<br>
 
 <h2 align="center"> :rocket: &nbsp;Minhas Competências </h2>
+<h5 align="center"> :rocket: &nbsp;Minhas Competências </h5>
 🌩️ Cloud 
 <div>
   <img title="AWS" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
