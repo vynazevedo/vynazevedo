@@ -7,9 +7,9 @@ Engenheiro de software com ampla experiência em desenvolvimento back-end, espec
 
 <h2 align="center"> :rocket: &nbsp;Minhas Competências </h2>
 
-> ### Título do Card
-> Este é um exemplo de conteúdo dentro de um card. Você pode adicionar texto e formatação básica aqui.
-
+> ### 🌩️ Cloud 
+> <img title="AWS" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+> <img title="GCP" alt="GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
 
 <table style="width: 100%; border: none;">
   <tr>
