@@ -11,27 +11,17 @@ Engenheiro de software com ampla experiência em desenvolvimento back-end, espec
 > <img title="AWS" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 > <img title="GCP" alt="GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
 
-<table style="width: 100%; border: none;">
-  <tr>
-    <td style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; background-color: #f9f9f9;">
-      <h3 style="margin-top: 0;">🌩️ Cloud </h3>
-      <div>
-        <img title="AWS" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-        <img title="GCP" alt="GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
-      </div>
-    </td>
-  </tr>  
-</table>
-
-🌩️ Cloud 
-<div>
-  <img title="AWS" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img title="GCP" alt="GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
-</div>
+> ### ⚙️ Backend
+> <img title="NodeJS" alt="ViniciusAzeved-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+> <img title="Golang" alt="ViniciusAzeved-Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+> <img title="PHP" alt="ViniciusAzeved-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+> <img title="Python" alt="ViniciusAzeved-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+> <img title="Java" alt="ViniciusAzeved-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+> <img title="TypeScript" alt="ViniciusAzeved-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+> <img title="JavaScript" alt="ViniciusAzeved-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 ---
 
-⚙️ Backend 
 <div>
   <img title="NodeJS" alt="ViniciusAzeved-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img title="Golang" alt="ViniciusAzeved-Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
