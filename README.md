@@ -7,7 +7,7 @@ Engenheiro de software com ampla experiência em desenvolvimento back-end, espec
 
 <h2 align="center"> :rocket: &nbsp;Minhas Competências </h2>
 
-<table>
+<table style="width: 100%; border: none;">
   <tr>
     <td style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; background-color: #f9f9f9;">
       <h3 style="margin-top: 0;">🌩️ Cloud </h3>
