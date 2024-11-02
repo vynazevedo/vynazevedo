@@ -10,9 +10,9 @@ Engenheiro de software com ampla experiência em desenvolvimento back-end, espec
 <div>
   <img title="AWS" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img title="GCP" alt="GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
-</div><br>
+</div>
 
-<hr style="border: none; border-top: 1px solid #ccc; margin: 2px 0;">
+---
 
 ⚙️ Backend 
 <div>
@@ -23,7 +23,10 @@ Engenheiro de software com ampla experiência em desenvolvimento back-end, espec
   <img title="Java" alt="ViniciusAzeved-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img title="TypeScript" alt="ViniciusAzeved-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img title="JavaScript" alt="ViniciusAzeved-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div><br>
+</div>
+
+---
+
 🖥️ Frontend 
 <div>
   <img title="React" alt="ViniciusAzeved-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -33,14 +36,21 @@ Engenheiro de software com ampla experiência em desenvolvimento back-end, espec
   <img title="TailwindCSS" alt="ViniciusAzeved-TailwindCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
   <img title="Bootstrap" alt="ViniciusAzeved-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img title="jQuery" alt="ViniciusAzeved-jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
-</div><br>
+</div>
+
+---
+
+
 🗄️ Banco de Dados 
 <div>
   <img title="MongoDB" alt="ViniciusAzeved-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
   <img title="MySQL" alt="ViniciusAzeved-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img title="PostgreSQL" alt="ViniciusAzeved-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
   <img title="Redis" alt="ViniciusAzeved-Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
-</div><br> 
+</div>
+
+---
+
 🔧 Ferramentas de Desenvolvimento 
 <div>
   <img title="Docker" alt="ViniciusAzeved-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
@@ -48,12 +58,18 @@ Engenheiro de software com ampla experiência em desenvolvimento back-end, espec
   <img title="Jira" alt="ViniciusAzeved-Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
   <img title="Yarn" alt="ViniciusAzeved-Yarn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
   <img title="NPM" alt="ViniciusAzeved-NPM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-</div><br> 
+</div>
+
+---
+
 🌐 Servidores e Infraestrutura 
 <div>
   <img title="NGINX" alt="ViniciusAzeved-NGINX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
   <img title="Apache" alt="ViniciusAzeved-Apache" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
-</div><br>
+</div>
+
+---
+
 </div>
 
  <br>
