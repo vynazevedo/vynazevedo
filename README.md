@@ -7,6 +7,10 @@ Engenheiro de software com ampla experiência em desenvolvimento back-end, espec
 
 <h2 align="center"> :rocket: &nbsp;Minhas Competências </h2>
 
+> ### Título do Card
+> Este é um exemplo de conteúdo dentro de um card. Você pode adicionar texto e formatação básica aqui.
+
+
 <table style="width: 100%; border: none;">
   <tr>
     <td style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; background-color: #f9f9f9;">
@@ -16,10 +20,7 @@ Engenheiro de software com ampla experiência em desenvolvimento back-end, espec
         <img title="GCP" alt="GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
       </div>
     </td>
-  </tr>
-  
-  ---
-  
+  </tr>  
 </table>
 
 🌩️ Cloud 
