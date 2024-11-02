@@ -41,6 +41,16 @@ Engenheiro de software com ampla experiência em desenvolvimento back-end, espec
 > <img title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> 
 > <img title="jQuery" alt="jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
 
+> ### 📊 Observabilidade e Monitoramento
+> <img title="OpenTelemetry" alt="OpenTelemetry" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opentelemetry/opentelemetry-original.svg"> 
+> <img title="Jaeger" alt="Jaeger" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jaeger/jaeger-original.svg"> 
+> <img title="Zipkin" alt="Zipkin" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/zipkin.svg"> 
+> <img title="New Relic" alt="New Relic" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/newrelic.svg"> 
+> <img title="Grafana" alt="Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg"> 
+> <img title="Prometheus" alt="Prometheus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg"> 
+> <img title="ELK Stack" alt="ELK Stack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg"> 
+> <img title="Kibana" alt="Kibana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg">
+
 > ### 🗄️ Bancos de Dados & Armazenamento
 > <img title="MongoDB" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg"> 
 > <img title="MySQL" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
