@@ -56,6 +56,7 @@ Engenheiro de software com ampla experiência em desenvolvimento back-end, espec
 > <img title="NPM" alt="NPM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"> 
 > <img title="GitHub Actions" alt="GitHub Actions" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
 > <img title="GitLab CI/CD" alt="GitLab CI/CD" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
+> <img title="Shell Script" alt="Shell Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 
 > ### 🌐 Servidores & Infraestrutura
 > <img title="NGINX" alt="NGINX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"> 
