@@ -17,6 +17,8 @@ Engenheiro de software com ampla experiência em desenvolvimento back-end, espec
    <img title="Redis" alt="ViniciusAzevedo-Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
 
    <img title="NodeJS" alt="ViniciusAzevedo-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+   <img title="PHP" alt="ViniciusAzevedo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img title="PHP" alt="ViniciusAzevedo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    <img title="PHP" alt="ViniciusAzevedo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
    <img title="GO" alt="ViniciusAzevedo-GO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
    <img title="TypeScript" alt="ViniciusAzevedo-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
