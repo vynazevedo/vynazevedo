@@ -17,6 +17,9 @@ Engenheiro de software com ampla experiência em desenvolvimento back-end, espec
       </div>
     </td>
   </tr>
+  
+  ---
+  
 </table>
 
 🌩️ Cloud 
