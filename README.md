@@ -12,7 +12,7 @@ Engenheiro de software com ampla experiência em desenvolvimento back-end, espec
   <img title="GCP" alt="GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
 </div><br>
 
----
+<hr style="border: none; border-top: 1px solid #ccc; margin: 20px 0;">
 
 ⚙️ Backend 
 <div>
