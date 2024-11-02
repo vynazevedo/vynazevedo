@@ -43,7 +43,7 @@ Engenheiro de software com ampla experiência em desenvolvimento back-end, espec
 
 > ### 📊 Observabilidade e Monitoramento
 > <img title="OpenTelemetry" alt="OpenTelemetry" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opentelemetry/opentelemetry-original.svg"> 
-> <img title="Jaeger" alt="Jaeger" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/jaeger/jaeger-original.svg](https://perfops.one/wp-content/uploads/2021/06/logo-jaeger.svg)"> 
+> <img title="Jaeger" alt="Jaeger" height="30" width="40" src="https://perfops.one/wp-content/uploads/2021/06/logo-jaeger.svg"> 
 > <img title="Zipkin" alt="Zipkin" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/zipkin.svg"> 
 > <img title="New Relic" alt="New Relic" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/newrelic.svg"> 
 > <img title="Grafana" alt="Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg"> 
