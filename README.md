@@ -14,9 +14,9 @@
 
 ---
 
-## 👨‍💻 Sobre
+## 👨‍💻 About
 
-**Engenheiro de Software** especializado em **arquiteturas distribuídas** e **sistemas de alta performance**. Foco em design e implementação de soluções escaláveis utilizando padrões modernos como **CQRS**, **Event Sourcing** e **Domain-Driven Design**. Experiência sólida em **Zero-Trust Architecture**, **Infrastructure as Code** e **observabilidade** em ambientes de produção críticos.
+**Staff Software Engineer** focused on large-scale distributed systems and **ultra-high-performance computing**. Expert in architecting resilient solutions using advanced patterns including CQRS, Event Sourcing, and Domain-Driven Design. Deep experience with Zero-Trust Architecture, GitOps/Infrastructure as Code, and full-stack observability in safety-critical production environments.
 
 ### 🎯 Áreas de Especialização
 - **Backend Engineering**: Golang, Rust, Python, TypeScript
