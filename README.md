@@ -4,6 +4,18 @@
   <a href="https://x.com/xvynazevedo" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
 </div><br>
 
+<div align="center">
+  <a href="mailto:viniciusdiazevedo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-viniciusdiazevedo@gmail.com-c23e11?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/viniciusazevedo-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/xvynazevedo" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@xvynazevedo-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+</div>
+
 Engenheiro de software com ampla experiência em desenvolvimento back-end, especializado em Golang, Python e PHP. Dedico minha carreira a projetar e implementar arquiteturas de software robustas e escaláveis, sempre seguindo as melhores práticas de desenvolvimento para entregar soluções eficientes e de alta qualidade. Tenho um forte compromisso com a construção de sistemas que atendam às necessidades de negócios complexos e de alta performance.<br><br>
 
 🔭 Atuação em projetos que envolvem desenvolvimento back-end utilizando Golang, Python e PHP;<br>
