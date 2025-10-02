@@ -14,11 +14,11 @@
 
 ---
 
-## 👨‍💻 About
+## Sobre
 
 **Staff Software Engineer** focused on large-scale distributed systems and **ultra-high-performance computing**. Expert in architecting resilient solutions using advanced patterns including CQRS, Event Sourcing, and Domain-Driven Design. Deep experience with Zero-Trust Architecture, GitOps/Infrastructure as Code, and full-stack observability in safety-critical production environments.
 
-### 🎯 Áreas de Especialização
+###  Áreas de Especialização
 - **Backend Engineering**: Golang, Rust, Python, TypeScript
 - **Distributed Systems**: Microservices, Event-Driven Architecture  
 - **Cloud Architecture**: Multi-cloud, Edge Computing, Container Orchestration
@@ -27,9 +27,9 @@
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
-### 🚀 **Core Languages & Runtime Performance**
+### **Core Languages & Runtime Performance**
 <div align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&label=Systems%20Programming" alt="Go"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&label=Memory%20Safety" alt="Rust"/>
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white&label=Edge%20Computing" alt="WebAssembly"/>
 </div>
 
-### 🏗️ **Backend Frameworks & Patterns**
+### **Backend Frameworks & Patterns**
 <div align="left">
   <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white&label=Go%20Framework" alt="Gin"/>
   <img src="https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white&label=Express%20Performance" alt="Fiber"/>
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white&label=Low%20Overhead" alt="Fastify"/>
 </div>
 
-### ☁️ **Cloud Architecture & Infrastructure**
+### **Cloud Architecture & Infrastructure**
 <div align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&label=Multi%20AZ" alt="AWS"/>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&label=Global%20Scale" alt="GCP"/>
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white&label=Service%20Mesh" alt="Istio"/>
 </div>
 
-### 📊 **Observability & Telemetry**
+### **Observability & Telemetry**
 <div align="left">
   <img src="https://img.shields.io/badge/OpenTelemetry-3D348B?style=for-the-badge&logo=opentelemetry&logoColor=white&label=Distributed%20Tracing" alt="OpenTelemetry"/>
   <img src="https://img.shields.io/badge/Jaeger-60C5CC?style=for-the-badge&logo=jaeger&logoColor=white&label=Trace%20Analysis" alt="Jaeger"/>
@@ -69,7 +69,7 @@
   <img src="https://img.shields.io/badge/DataDog-632CA6?style=for-the-badge&logo=datadog&logoColor=white&label=APM" alt="DataDog"/>
 </div>
 
-### 🗄️ **Data Engineering & Storage**
+### **Data Engineering & Storage**
 <div align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&label=ACID%20Compliance" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&label=In%20Memory" alt="Redis"/>
@@ -79,7 +79,7 @@
   <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white&label=Analytics%20DB" alt="ClickHouse"/>
 </div>
 
-### 🔒 **Security & DevSecOps**
+### **Security & DevSecOps**
 <div align="left">
   <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white&label=Secrets%20Management" alt="Vault"/>
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white&label=Security%20Standards" alt="OWASP"/>
@@ -87,7 +87,7 @@
   <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white&label=Vulnerability%20Scanner" alt="Trivy"/>
 </div>
 
-### 🔄 **CI/CD & Automation**
+### **CI/CD & Automation**
 <div align="left">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&label=Workflows" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&label=Pipeline" alt="GitLab CI"/>
@@ -97,24 +97,24 @@
 
 ---
 
-## 🏛️ **Padrões Arquiteturais & Design**
+## **Padrões Arquiteturais & Design**
 
 <div align="center">
   <table>
     <tr>
-      <td><strong>🎯 Domain Design</strong></td>
+      <td><strong>Domain Design</strong></td>
       <td>DDD, CQRS, Event Sourcing, Hexagonal Architecture</td>
     </tr>
     <tr>
-      <td><strong>🔄 Integration Patterns</strong></td>
+      <td><strong>Integration Patterns</strong></td>
       <td>Saga Pattern, Outbox Pattern, Circuit Breaker, Bulkhead</td>
     </tr>
     <tr>
-      <td><strong>📡 Communication</strong></td>
+      <td><strong>Communication</strong></td>
       <td>gRPC, GraphQL, REST, WebSockets, Server-Sent Events</td>
     </tr>
     <tr>
-      <td><strong>⚡ Performance</strong></td>
+      <td><strong>Performance</strong></td>
       <td>Connection Pooling, Caching Strategies, Load Balancing</td>
     </tr>
   </table>
@@ -122,7 +122,7 @@
 
 ---
 
-## 📈 **Performance & Profiling**
+## **Performance & Profiling**
 
 ### **Concurrency Models**
 - **Go**: Goroutines, Channels, Select Statements
@@ -138,23 +138,23 @@
 
 ---
 
-## 🎯 **Especialidades Técnicas**
+## **Especialidades Técnicas**
 
-### **🔧 Systems Programming**
+### **Systems Programming**
 Desenvolvimento de componentes críticos em **Go** e **Rust** focando em:
 - **Low-latency networking** com otimizações de kernel bypass
 - **Custom memory allocators** para workloads específicos  
 - **Lock-free data structures** para alta concorrência
 - **Cross-platform compilation** e distribuição de binários
 
-### **🌐 Distributed Systems**
+### **Distributed Systems**
 Arquiteturas resilientes implementando:
 - **Event-driven microservices** com Apache Kafka
 - **Distributed consensus** com Raft e etcd
 - **Service mesh** com Istio para comunicação segura
 - **Edge computing** com deployment distribuído
 
-### **☁️ Cloud-Native Engineering**
+### **Cloud-Native Engineering**
 Soluções modernas para escalabilidade:
 - **Multi-cloud** deployment strategies
 - **Serverless** com AWS Lambda e Google Cloud Functions
@@ -171,5 +171,5 @@ Soluções modernas para escalabilidade:
 ---
 
 <div align="center">
-  <sub>🔥 Passionate about building scalable, resilient systems that solve real-world problems</sub>
+  <sub>Passionate about building scalable, resilient systems that solve real-world problems</sub>
 </div>
